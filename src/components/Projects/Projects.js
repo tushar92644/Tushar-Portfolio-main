@@ -3,12 +3,12 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
-import leaf from "../../Assets/Projects/leaf.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import emotion from "../../Assets/Projects/emotion.png";
+import editor from "../../Assets/Projects/coureco.png";
+import chatify from "../../Assets/Projects/College image .jpg";
+import bitsOfCode from "../../Assets/Projects/62c495a83c4abf70ef0438b6_Recurrent original research.jpg";
+import leaf from "../../Assets/Projects/mindcraft.jpeg";
+import suicide from "../../Assets/Projects/chat with multi pdf.jpg";
+
 
 function Projects() {
   return (
